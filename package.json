@@ -1,0 +1,18 @@
+{
+  "name": "ReactMainContetTemplate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "ssh://github.com/n06Ar/ReactMainContetTemplate.git",
+  "author": "N06AR <nobht.arai@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "devDependencies": {
+    "ts-loader": "^6.2.1",
+    "typescript": "^3.7.4",
+    "webpack": "^4.41.5"
+  }
+}
