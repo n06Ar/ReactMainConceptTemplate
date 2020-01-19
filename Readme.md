@@ -1,5 +1,5 @@
 # 何これ? 
-ReactのMainContent用に作った開発環境
+Reactの[MainConcept](https://ja.reactjs.org/docs/hello-world.html)用に作った開発環境
 
 ## 使う手順
 
@@ -30,4 +30,4 @@ $ yarn run dev-server
     - `main.js`
       - `src`のコードの出力ファイル
 - `/src/`
-    - 編集するソースコード
+    - 編集するソースコードが入っている場所
