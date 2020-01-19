@@ -31,3 +31,5 @@ $ yarn run dev-server
       - `src`のコードの出力ファイル
 - `/src/`
     - 編集するソースコードが入っている場所
+    - index.tsx
+        - エントリーポイント
